@@ -1,4 +1,3 @@
-# DarkModeSafari
 <h1>Simple Dark Mode for Safari</h1>
 
 <h2>Features</h2>
